@@ -1,0 +1,27 @@
+.i{
+    width: 150px;
+    height: 150px;
+    background-image: url(/images/tom1.png)
+    }
+    .j{
+        width: 150px;
+        height: 150px;
+        background-image: url(/images/snare.png);
+    }
+    
+    .w{
+        width: 150px;
+        height: 150px;
+        background-image: url(/images/crash.png);
+     }
+    .set{
+        text-align: center;
+        margin: 150px;
+        display: inline-flex;
+        gap: 50px;
+    
+    }
+    h1{
+        text-align: center;
+    }
+    
